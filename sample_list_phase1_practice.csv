@@ -1,0 +1,5 @@
+order,conditionedCat,trial,stim_cat_enc,stim_number_enc,stim_name_enc,stim_cat_left,stim_number_left,stim_name_left,stim_cat_right,stim_number_right,stim_name_right,corr_resp
+1,1,P1,1,57,stimuli/man.jpeg,1,57,stimuli/man.jpeg,2,42,stimuli/tree.jpeg,1
+1,1,P2,2,13,stimuli/mask.jpg,1,14,stimuli/kid.jpeg,2,13,stimuli/mask.jpg,2
+1,1,P3,3,13,stimuli/flowers.jpeg,1,14,stimuli/flowers.jpeg,2,13,stimuli/woman.jpeg,1
+1,1,P4,4,13,stimuli/car.jpeg,1,14,stimuli/pizza.jpeg,2,13,stimuli/car.jpeg,2

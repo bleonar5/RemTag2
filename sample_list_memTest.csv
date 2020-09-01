@@ -1,0 +1,3 @@
+order,conditionedCat,trial,stim_cat,stim_number,stim_name,stim_oldnew
+1,1,1,1,57,stimuli/animals/tiger.jpg,1
+1,1,2,1,87,stimuli/animals/panda.jpg,2
